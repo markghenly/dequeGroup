@@ -1,0 +1,103 @@
+.footer {
+  width: 100%;
+  margin-top: 140%;
+  background-color: #333;
+  position: relative;
+  color: #fff;
+  overflow: hidden;
+  padding: 20px;
+  z-index: -100;
+}
+
+.footer-logo {
+  display: flex;
+  margin-bottom: 20px
+}
+
+.footer-logo .footer-logo-image {
+  width: 120px
+}
+
+.footer-links h4 {
+  font-family: Century Gothic;
+  color: #fff;
+  font-size: 18px
+}
+
+.footer-links {
+  text-decoration: none;
+  color: var(--yellow);
+  font-family: Century Gothic
+}
+
+.footer-links a {
+  color: var(--yellow);
+  font-family: Century Gothic;
+  text-decoration: none
+}
+
+.footer-links li {
+  list-style-type: none
+}
+
+.footer-contact h4 {
+  font-family: Century Gothic;
+  color: #fff;
+  font-size: 18px
+}
+
+.copyright {
+  font-family: Century Gothic;
+  border-top: 3px solid var(--dark-green);
+  text-align: center;
+  padding-top: 20px;
+  font-size: 18px;
+  color: #fff
+}
+
+.marquee-container {
+  pointer-events: none;
+  position: absolute;
+  width: 100%;
+  top: 0;
+  left: 0;
+  z-index: -1
+}
+
+@keyframes marquee {
+  0% {
+    transform: translate(100%)
+  }
+
+  to {
+    transform: translate(-100%)
+  }
+}
+
+.marquee-container {
+  overflow: hidden
+}
+
+.marquee-container div {
+  white-space: nowrap;
+  animation: marquee 10s linear infinite
+}
+
+.marquee-container marquee {
+  font-family: Roboto, sans-serif;
+  position: relative;
+  color: var(--dark-green);
+  opacity: .3;
+  font-size: 160px;
+  font-weight: 500;
+  letter-spacing: 0px;
+  top: 0;
+  bottom: auto
+}
+
+.footer-logo p {
+  color: #fff;
+  margin-top: 25px;
+  font-family: Century Gothic, serif
+}
+

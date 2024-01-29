@@ -1,0 +1,25 @@
+.container {
+    display: flex;
+    height: 80vh;
+  }
+
+  .aside {
+    width: 30%;
+    height: 100%;
+
+    padding: 20px;
+    box-sizing: border-box;
+  }
+
+  .aside2 {
+    width: 30%;
+
+    padding: 20px;
+    box-sizing: border-box;
+  }
+
+  .content {
+    flex: 1;
+    padding: 20px;
+    box-sizing: border-box;
+  }

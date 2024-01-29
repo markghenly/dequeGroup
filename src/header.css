@@ -1,0 +1,59 @@
+/* Header.css */
+header {
+    background-color:green;
+    color: white;
+    padding: 10px;
+    text-align: center;
+  }
+  .masthead {
+    display: block;
+    background-color: #333;
+   
+   
+}
+
+.header-masthead {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+}
+
+.logo {
+    display: flex;
+    /* justify-content: space-evenly; */
+}
+
+.text-logo {
+    font-family: 'Cinzel';
+    display: inline-block;
+    margin-top: 12px;
+}
+
+.image-logo {
+    margin-right: 20px;
+}
+
+.image-logo>.logo {
+    width: 100px;
+}
+
+#agency-heading {
+    font-size: 12pt;
+    color: var(--yellow);
+}
+
+#agency-name {
+    font-size: 30px;
+    display: block;
+    position: relative;
+    color: var(--yellow);
+    line-height: 1;
+    padding-top: 5px;
+    border-top: 1px solid var(--yellow);
+    margin: 0;
+}
+
+#agency-tagline {
+    font-size: 12pt;
+    color: var(--yellow);
+}  

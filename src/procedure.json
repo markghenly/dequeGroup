@@ -1,0 +1,63 @@
+[
+    {
+        "id": 1,
+        "requirements": ["⦿ Present Valid Id"],
+        "Office": "GUARD HOUSE",
+        "Personnel": ["⦿ Check Valid ID And Provide Client Satisfaction Survey And Feedback From(ISO)"]
+    },
+    {
+        "id": 2,
+        "requirements": ["⦿ Report To The Nersu Office For New Enrollees Only"],
+        "Office": "NURSE HOUSE",
+        "Personnel": ["⦿ Check Temperature", "⦿ Provide Health Clearance Slip"],
+        "Name": ["⦿ Ms. Rona Garcia", "⦿ Admin Building"]
+    },
+    {
+        "id": 3,
+        "requirements": ["⦿ Submit Clearance (Last Sem)", "⦿ Submit Lacking Requirements", "⦿ Log In To Documented Information Registry (DIR)", "⦿ Submit Clearance (Last Sem)"],
+        "Office": "REGISTRAR'S OFFICE",
+        "Personnel": ["⦿ Received (Last Sem)", "⦿ Received Enrollment Requirements", "⦿ Assist And Provide Pre-Enrollment Forms", "⦿ Instruct The Students To Log In To The (DIR)"],
+        "Name": ["⦿ Ms. Rona Garcia", "⦿ Admin Building"]
+    },
+    {
+        "id": 4,
+        "requirements": ["⦿ Present Copy Of Grades Issued i.e. Classcard/CFG/Evaluation Sheets/Compiles Ip Grades", "⦿ Copy Of Subjects And Units To Enroll From The Temporary Enrollment Form"],
+        "Office": "PROGRAM HEADS/COURSE COORDINATES",
+        "Personnel": ["⦿ Assist, Evaluate And Update Evaluation Sheet", "⦿ Give A Copy Of Updated Evaluation Sheets", "⦿ Provide List Subject And Units To Enroll"]
+    },
+    {
+        "id": 5,
+        "requirements": ["⦿ Submit Scholarship Requirements", "⦿ Present Duly Accomplished Pre-Enrollment Form"],
+        "Office": "SCHOLARSHIP OFFICE",
+        "Personnel": ["⦿ Evaluate Scholarship Requirements", "⦿ Write The Scholarship At The Pre-Enrollment Form Where The Students Qualify"],
+        "Name": ["⦿ Dr. Rosemarie Pascua"]
+    },
+    {
+        "id": 6,
+        "requirements": ["⦿ Submit Duly Accomplished Pre-Enrollment Form"],
+        "Office": "REGISTRAR'S OFFICE/UNIFAST IN CHARGE",
+        "Personnel": ["⦿ Encode Subject, Units And Bill Of Payments To The UNIFAST System", "⦿ Print 3 Copies And Enrollments Form Or Certificate Of Enrollment And Billing"],
+        "Name": ["⦿ Mr. Merlvin Mico", "⦿ Dr. William Pedro"]
+    },
+    {
+        "id": 7,
+        "requirements": ["⦿ Submit Certificate Of Enrollment And Billing (CEB)"],
+        "Office": "CASHIER'S OFFICE",
+        "Personnel": ["⦿ Print 3 Copies And Enrollments Form Or Certificate Of Enrollment And Billing", "⦿ Sign CEBs"],
+        "Name": ["⦿ Mrs. Caren Joy Ingoy"]
+    },
+    {
+        "id": 8,
+        "requirements": ["⦿ Present (3) Copies Of Enrollment Form Or CEBs For Verification And Signature"],
+        "Office": "DEAN'S OFFICE",
+        "Personnel": ["⦿ Check, Verify And Sign Enrollment Form / CEBs"]
+    },
+    {
+        "id": 9,
+        "requirements": ["⦿ Present (3) Copies Of Enrollment Form Or CEBs For Verification And Signature", "⦿ Submit ID For Validation", "⦿ Get Class Card"],
+        "Office": "REGISTRAR'S OFFICE",
+        "Personnel": ["⦿ Check, Verify And Sign Enrollment Form / CEBs", "⦿ Update Enrollment Master List", "⦿ Confirm Enrollment To The UNIFAST Enrollment System"],
+        "Name": ["⦿ Dr. William Pedro"]
+    }
+
+]
